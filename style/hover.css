@@ -1,0 +1,10 @@
+.container .content .first_product .features ul li:hover {
+  color: gold;
+  cursor: pointer;
+}
+.first:hover {
+  transform: scale(1.05);
+}
+.second:hover {
+  transform: scale(1.05);
+}
